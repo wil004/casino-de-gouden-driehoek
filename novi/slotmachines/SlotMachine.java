@@ -3,7 +3,6 @@ package novi.slotmachines;
 import novi.blackjack.Deck;
 
 public abstract class SlotMachine {
-
     private ReelDeck deck;
     private boolean tokensEqual;
     private boolean wonGame;
